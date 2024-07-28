@@ -18,28 +18,28 @@
 	},
   "item": [
     {
-      "name": "Sonomi's Staff",
-      "entires": [
-        "You can use the staff to cast any spell optionally with your wisdom modifier.",
-        "The staff recharges 1d6 + 4 expended charges everyday at dawn."
-      ],
-      "charges": 10,
-      "type": "M",
-      "reqAttune": true,
-      "rarity": "rare",
-      "weight": 6,
-			"dmg1": "1d6",
-			"dmg2": "1d8",
-			"dmgType": "B",
-			"property": [
-			  "V"
-			],
-      "attachedSpells": [
-        "Green Flame Blade",
-        "Firebolt (1 charge)",
-        "Burning Hands (1st level)(3 charges)",
-        "Fireball (3rd level)(6 Charges)"
-        ]
+	    "name": "Sonomi's Staff",
+	    "entires": [
+		    "You can use the staff to cast any spell optionally with your wisdom modifier.",
+		    "The staff recharges 1d6 + 4 expended charges everyday at dawn."
+	    ],
+	    "charges": 10,
+	    "type": "M",
+	    "reqAttune": true,
+	    "rarity": "rare",
+	    "weight": 6,
+	    "dmg1": "1d6",
+	    "dmg2": "1d8",
+	    "dmgType": "B",
+	    "property": [
+		    "V"
+	    ],
+	    "attachedSpells": [
+		    "Green Flame Blade",
+		    "Firebolt (1 charge)",
+		    "Burning Hands (1st level)(3 charges)",
+		    "Fireball (3rd level)(6 Charges)"
+	    ]
     }
   ]
 }
